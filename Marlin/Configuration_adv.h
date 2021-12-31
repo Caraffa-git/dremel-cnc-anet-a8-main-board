@@ -3731,15 +3731,20 @@
   #define MAIN_MENU_ITEM_1_DESC "Set to (0,0,0)"
   #define MAIN_MENU_ITEM_1_GCODE "G92 X0 Y0 Z0"
   #define MAIN_MENU_ITEM_1_AUDIBLE_FEEDBACK
+  #define MAIN_MENU_ITEM_1_CONFIRM   
   //#define MAIN_MENU_ITEM_1_CONFIRM          // Show a confirmation dialog before this action
 
   #define MAIN_MENU_ITEM_2_DESC "Set XY to (0,0)"
   #define MAIN_MENU_ITEM_2_GCODE "G92 X0 Y0"
   #define MAIN_MENU_ITEM_2_AUDIBLE_FEEDBACK
+  #define MAIN_MENU_ITEM_2_CONFIRM   
+
 
   #define MAIN_MENU_ITEM_3_DESC "Set Z to 0"
   #define MAIN_MENU_ITEM_3_GCODE "G92 Z0"
   #define MAIN_MENU_ITEM_3_AUDIBLE_FEEDBACK
+  #define MAIN_MENU_ITEM_3_CONFIRM   
+
 
   #define MAIN_MENU_ITEM_4_DESC "Move XY to (0,0)"
   #define MAIN_MENU_ITEM_4_GCODE "G0 X0 Y0"
